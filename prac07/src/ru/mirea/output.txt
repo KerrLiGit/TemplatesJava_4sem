@@ -1,0 +1,5 @@
+RedCircle
+RedRectangle
+BlueCircle
+BlueRectangle
+600

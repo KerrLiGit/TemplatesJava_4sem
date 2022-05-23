@@ -1,0 +1,12 @@
+ru/mirea/ikbo1020/Application.java
+ ru.mirea.ikbo1020.Application
+ru/mirea/ikbo1020/components/RonWeesly.java
+ ru.mirea.ikbo1020.components.RonWeesly
+ru/mirea/ikbo1020/config/BeanConfig.java
+ ru.mirea.ikbo1020.config.BeanConfig
+ru/mirea/ikbo1020/components/Voldemort.java
+ ru.mirea.ikbo1020.components.Voldemort
+ru/mirea/ikbo1020/interfaces/Magican.java
+ ru.mirea.ikbo1020.interfaces.Magican
+ru/mirea/ikbo1020/components/HarryPotter.java
+ ru.mirea.ikbo1020.components.HarryPotter

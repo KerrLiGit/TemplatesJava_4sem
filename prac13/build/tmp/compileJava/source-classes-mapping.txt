@@ -1,0 +1,4 @@
+ru/mirea/ikbo1020/prac13/Prac13Application.java
+ ru.mirea.ikbo1020.prac13.Prac13Application
+ru/mirea/ikbo1020/prac13/components/Student.java
+ ru.mirea.ikbo1020.prac13.components.Student

@@ -1,0 +1,9 @@
+Singleton1 hashCodes: 295530567 295530567
+
+Singleton2 hashCodes: 1480010240 1480010240
+
+Singleton3 hashCodes: 81628611 81628611 81628611
+
+MyClass hashCodes: 1828972342 1452126962
+
+Process finished with exit code 0

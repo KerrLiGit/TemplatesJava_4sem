@@ -1,0 +1,8 @@
+The light is on
+The light is off
+A
+B
+C
+A
+B
+C

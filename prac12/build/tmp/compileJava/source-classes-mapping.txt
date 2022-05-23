@@ -1,0 +1,6 @@
+ru/mirea/ikbo1020/prac12/components/Converter.java
+ ru.mirea.ikbo1020.prac12.components.Converter
+ru/mirea/ikbo1020/prac12/components/FileReader.java
+ ru.mirea.ikbo1020.prac12.components.FileReader
+ru/mirea/ikbo1020/prac12/Prac12Application.java
+ ru.mirea.ikbo1020.prac12.Prac12Application

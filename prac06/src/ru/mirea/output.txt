@@ -1,0 +1,20 @@
+Factory method example:
+Круглая вафля
+Прямоугольная вафля
+
+Abstract factory example:
+Рожок мороженого фирмы А
+Пломбир фирмы А
+Рожок мороженого фирмы B
+Пломбир фирмы B
+
+Builder example:
+Tesla with Electrical engine
+Toyota with Gas engine
+
+Prototype example:
+New packing
+New packing
+New packing
+New packing
+New packing
